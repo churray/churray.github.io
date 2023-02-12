@@ -1,0 +1,97 @@
+body {
+	background-color: #0f0f0f;
+}
+
+.youtube {
+	height: 250px;
+	width: 250px;
+	margin-top: 20px;
+	margin-left: 10px;
+	background-color: #000000;
+}
+
+.twitter {
+	height: 250px;
+	width: 250px;
+	margin-top: 20px;
+	margin-left: 10px;
+	background-color: #000000;
+}
+
+.twitch {
+	height: 250px;
+	width: 250px;
+	margin-top: 20px;
+	margin-left: 10px;
+	background-color: #000000;
+}
+
+.reddit {
+	height: 250px;
+	width: 250px;
+	margin-top: -790px;
+	margin-left: 275px;
+	background-color: #000000;
+}
+
+.gmail {
+	height: 250px;
+	width: 250px;
+	margin-top: 20px;
+	margin-left: 275px;
+	background-color: #000000;
+}
+
+.whatsapp {
+	height: 250px;
+	width: 250px;
+	margin-top: 20px;
+	margin-left: 275px;
+	background-color: #000000;
+}
+
+.google {
+	height: 250px;
+	width: 250px;
+	margin-top: -790px;
+	margin-left: 540px;
+	background-color: #000000;
+}
+
+.netflix {
+	height: 250px;
+	width: 250px;
+	margin-top: 20px;
+	margin-left: 540px;
+	background-color: #000000;
+}
+
+.changelog {
+	text-align: left;
+	position: fixed;
+	bottom: 0;
+	left: 10px;
+	font-size: 18px;
+	color: #000000;
+	font-family: Courier New;
+	text-decoration: none;
+}
+
+.nipz58 {
+	text-align: right;
+	position: fixed;
+	bottom: 0;
+	right: 10px;
+	font-size: 18px;
+	color: #000000;
+	font-family: Courier New;
+	text-decoration: none;
+}
+
+.changelogs {
+	color: black;
+	font-size: 18px;
+	font-family: Courier New;
+	margin-left: 10px;
+	list-style: square;
+}
